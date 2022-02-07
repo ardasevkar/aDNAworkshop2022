@@ -139,7 +139,7 @@ We must filter pairs whose have lower than 5000 SNPs. Below 5000 SNPs, false pos
 Rscript post_script.R
 ```
 
-### Organize and examine result files
+### Organize and examine filtered result files
 
 ---
 
